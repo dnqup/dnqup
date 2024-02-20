@@ -7,7 +7,7 @@ Tôi là một developer có hơn 4 năm kinh nghiệm làm việc chuyên sâu 
 ## Kinh Nghiệm và Kỹ Năng
 
 - **Ngôn ngữ lập trình**: PHP, JavaScript
-- **Framework**: Laravel, Angular, Vue
+- **Framework**: Laravel, Angular
 - **Cơ sở dữ liệu**: MySQL
 - **Công cụ phát triển**: PhpStorm, Git, Jira
 - **Các kỹ năng khác**: HTML, CSS, Jquery, Docker
